@@ -1,3 +1,6 @@
 [submodule "derust"]
 	path = derust
 	url = https://github.com/Cloudiz1/derust
+[submodule "clip"]
+	path = clip
+	url = https://github.com/Cloudiz1/clip
